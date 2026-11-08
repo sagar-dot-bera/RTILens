@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.db
+.env
+storage/original_reports/*
+storage/extracted_tables/*
+!.gitkeep

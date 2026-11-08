@@ -1,0 +1,9 @@
+financial_year,metric,value,unit,value_status,source_file,pdf_page,table_number,source_table,notes
+2015-16,total_registered_public_authorities,2023,count,reported,AR2015-16E.pdf,10,1,Table 2.1,Public authorities registered
+2015-16,public_authorities_submitted_annual_returns,1903,count,reported,AR2015-16E.pdf,10,1,Table 2.1,Annual returns submitted
+2015-16,public_authorities_not_submitted_annual_returns,120,count,reported,AR2015-16E.pdf,10,1,Table 2.1,Annual returns not submitted
+2015-16,annual_return_compliance_percentage,94.07,percent,reported,AR2015-16E.pdf,10,1,Table 2.1,Submitted divided by total registered public authorities
+2015-16,capios_appointed,66025,count,reconstructed,AR2015-16E.pdf,28,1,Summary table,Extracted as 6602 and 5
+2015-16,cpios_appointed,22210,count,reconstructed,AR2015-16E.pdf,28,1,Summary table,Extracted as 2221 and 0
+2015-16,appellate_authorities_appointed,8766,count,reconstructed,AR2015-16E.pdf,28,1,Summary table,Extracted as 876 and 6
+2015-16,total_capios_cpios_and_appellate_authorities,97001,count,reconstructed,AR2015-16E.pdf,28,1,Summary table,Extracted as 9700 and 1

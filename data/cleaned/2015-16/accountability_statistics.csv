@@ -1,0 +1,6 @@
+financial_year,metric,value,unit,value_status,source_file,pdf_page,table_number,source_table,notes
+2015-16,section_20_1_penalties_imposed,,count,not_reported,AR2015-16E.pdf,28,1,Summary table,No separate Section 20(1) penalty count located
+2015-16,total_section_20_penalty_amount,,INR,not_reported,AR2015-16E.pdf,28,1,Summary table,No separate Section 20 penalty amount located
+2015-16,section_20_2_disciplinary_action_cases,2,count,reported,AR2015-16E.pdf,28,1,Summary table,Cases where disciplinary action was taken against an officer in administration of RTI Act
+2015-16,disciplinary_action_reasons,,text,not_reported,AR2015-16E.pdf,28,1,Summary table,Reasons not reported
+2015-16,combined_fee_additional_charges_penalty_collected,11800135,INR,reconstructed,AR2015-16E.pdf,28,1,Summary table,Explicitly combined and must not be treated as Section 20 penalty amount

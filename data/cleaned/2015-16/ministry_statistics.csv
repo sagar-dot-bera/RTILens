@@ -1,0 +1,21 @@
+financial_year,ministry_or_public_authority,applications_received,applications_rejected,rejection_percentage,first_appeals_received,second_appeals_or_complaints_received,authority_category,value_status,source_file,pdf_page,table_number,source_table,notes
+2015-16,Ministry of Finance,155308,28453,,22958,4978,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection values are from fragmented extracted cells; appeal values from page 28
+2015-16,Ministry of Communications & Information Tech.,111314,3532,,11048,1926,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Name and values span fragmented cells
+2015-16,UT of Delhi,106252,433,,12967,3356,Union Territory,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 4/33 cells
+2015-16,Ministry of Railways,99371,972,,10285,2061,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 9/72 cells
+2015-16,Ministry of Human Resource Development,65869,809,,7106,1408,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 8/09 cells
+2015-16,Ministry of Home Affairs,57657,8060,,7559,923,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 80/60 cells
+2015-16,Ministry of Defence,49961,5754,,4384,3429,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 57/54 cells
+2015-16,Ministry of Labour & Employment,46235,2817,,3577,429,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 28/17 cells
+2015-16,"Ministry of Personnel, Public Grievances & Pensions",33726,1133,,4224,537,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 11/33 cells
+2015-16,Ministry of Petroleum & Natural Gas,28738,3101,,2736,445,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 31/01 cells
+2015-16,Ministry of Health & Family Welfare,22350,373,,2537,492,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 3/73 cells
+2015-16,Ministry of Urban Development,20693,100,,1066,545,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 1/00 cells
+2015-16,Ministry of External Affairs,15477,2,,1155,157,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value extracted across fragmented cells
+2015-16,Ministry of Coal,12407,974,,2347,665,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 9/74 cells
+2015-16,Prime Minister’s Office,11138,2234,,1478,223,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 22/34 cells
+2015-16,Ministry of Agriculture,11027,324,,731,118,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 3/24 cells
+2015-16,UT of Chandigarh,10522,351,,743,145,Union Territory,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 3/51 cells
+2015-16,"Ministry of Consumer Aff., Food, & Public Dist.",7933,265,,857,153,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 2/65 cells
+2015-16,Ministry of Commerce & Industry,7805,378,,872,172,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 3/78 cells
+2015-16,Ministry of Corporate Affairs,7460,614,,666,133,,reconstructed,AR2015-16E.pdf,19,1,Table 2.5 and Table 2.6,Rejection value reconstructed from split 6/14 cells

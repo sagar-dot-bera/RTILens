@@ -1,0 +1,5 @@
+financial_year,appeal_or_complaint_category,received,disposed,pending,value_status,source_file,pdf_page,table_number,source_table,notes
+2015-16,First appeals,,,,NA,AR2015-16E.pdf,28,1,Table 2.6,"Report provides first appeals received by selected authority, not a national total"
+2015-16,Second appeals or complaints,,,,NA,AR2015-16E.pdf,28,1,Table 2.6,"Report provides second appeals or complaints received by selected authority, not a national total"
+2015-16,Appeals (aggregate),110034,106556,,reconstructed,AR2015-16E.pdf,28,1,Summary table,Aggregate appeals received and disposed; extracted values are fragmented
+2015-16,Complaints,,,,NA,AR2015-16E.pdf,28,1,Table 2.6,Complaints are combined with second appeals in the source

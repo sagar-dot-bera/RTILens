@@ -1,0 +1,3 @@
+financial_year,metric,source_1,value_1,source_2,value_2,description,resolution_status
+2015-16,annual_return_compliance_percentage,AR2015-16E.pdf p.10 Table 2.1,94.07%,AR2015-16E.pdf p.12 Table 2.3,94.07%,Same total reproduced in summary/category tables,consistent
+2015-16,section_20_penalty_amount,AR2015-16E.pdf p.28 summary,not separately reported,AR2015-16E.pdf p.28 summary,11800135,Combined fee plus additional charges plus penalty is not a Section 20 amount,unresolved_manual_review

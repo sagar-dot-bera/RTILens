@@ -1,0 +1,10 @@
+financial_year,metric,value,unit,value_status,source_file,pdf_page,table_number,source_table,notes
+2015-16,registered_public_authorities,2023,count,reported,AR2015-16E.pdf,15,1,Table 2.4,National five-year summary
+2015-16,opening_balance,188538,count,reported,AR2015-16E.pdf,15,1,Table 2.4,Opening balance of RTI requests
+2015-16,applications_received,976679,count,reported,AR2015-16E.pdf,15,1,Table 2.4,RTI requests received
+2015-16,total_applications_available_for_disposal,1165217,count,reported,AR2015-16E.pdf,15,1,Table 2.4,Opening balance plus applications received
+2015-16,applications_rejected,64666,count,reported,AR2015-16E.pdf,15,1,Table 2.4,Requests for information rejected
+2015-16,rejection_percentage,6.62,percent,reported,AR2015-16E.pdf,15,1,Table 2.4,Percentage of applications received rejected
+2015-16,applications_transferred,167129,count,reported,AR2015-16E.pdf,28,1,Summary table,Number of RTI requests transferred to other public authorities
+2015-16,appeals_received,110034,count,reconstructed,AR2015-16E.pdf,28,1,Summary table,Extracted as 1100 and 34 in adjacent cells
+2015-16,appeals_disposed,106556,count,reconstructed,AR2015-16E.pdf,28,1,Summary table,Extracted as 1065 and 56 in adjacent cells
