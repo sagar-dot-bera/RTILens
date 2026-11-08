@@ -1,0 +1,6 @@
+extractors:
+  default: pdfplumber
+  supported:
+    - pdfplumber
+    - camelot
+    - docling
