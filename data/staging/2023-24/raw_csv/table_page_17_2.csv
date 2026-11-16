@@ -1,0 +1,11 @@
+﻿Sl. No.,Category of PA,"Number of
+RTI requests
+received","Number of
+RTI requests
+rejected","RTI requests
+rejected (%)"
+(a),(b),(c),(d),(e)=(d) X 100/(c)
+1,"Independent Ministry/
+Department",205804,7387,3.59
+2,Department under Ministry,258930,4723,1.82
+3,Attached Office,486384,6452,1.33
