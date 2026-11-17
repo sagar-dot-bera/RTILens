@@ -1,0 +1,16 @@
+financial_year,pa_registered,opening_balance,requests_received,total_requests,requests_transferred,requests_rejected,rejection_pct_reported,first_appeals_received,first_appeals_disposed,second_appeals_registered,second_appeals_disposed,second_appeals_pending,disciplinary_actions,fee_collected_rs,addl_charges_collected_rs,section20_penalty_collected_rs,total_amount_collected_rs,capios,cpios,faas,total_officers,source_file,pdf_page,table_number,source_table,notes
+2005-06,938,0,24436,24436,NA,3387,13.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2006-07,1412,12026,171398,183424,NA,15388,9.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2007-08,1597,23926,263261,287187,NA,18966,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2008-09,1770,32792,329728,362520,NA,23954,7.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2009-10,1847,97474,529274,626748,NA,34057,6.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2010-11,2149,137771,417955,555726,NA,21413,5.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2011-12,2314,76016,629960,705976,NA,52313,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2012-13,2333,75331,811350,886681,NA,62231,7.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2013-14,2276,128447,834183,962630,NA,60127,7.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2014-15,2030,89785,755247,845032,NA,63351,8.39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2015-16,2024,188538,976679,1165217,NA,64666,6.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2016-17,2092,212430,915749,1128179,NA,60428,6.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2017-18,2079,215466,1233207,1448673,NA,63206,5.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,Rejection% reported as 5.13%; footnote: 4% when opening balance included in denominator
+2018-19,2145,259919,1370129,1630048,NA,64344,4.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR2019-20E.pdf,19,Table_2.4,Table_2.4,
+2019-20,2193,310110,1374315,1684425,182988,58634,4.27,152354,96812,22243,16720,35178,23,5718102.2,3395856,194576,9308534,60432,21756,8923,91111,AR2019-20E.pdf,19;29-30;32;33;182,Table_2.4;Table_2.9;Section_3.2.2;Section_3.3.1;Annexure-1_GrandTotal,Table_2.4;Table_2.9;Section_3.2.2;Section_3.3.1;Annexure-1_GrandTotal,"2019-20 details from Table 2.9 (pp.29-30), Sec 3.2.2 (p.32), Sec 3.3.1 (p.33), Annexure-1 Grand Total (p.182). Fee=5718102.20, Addl.Charges=3395856, Penalty=194576."

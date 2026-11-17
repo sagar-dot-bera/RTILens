@@ -1,0 +1,9 @@
+financial_year,metric,value,unit,source_file,pdf_page,table_number,source_table,notes
+2019-20,Disciplinary Actions Taken Against Officers,23,Cases,AR2019-20E.pdf,29,Table_2.9,Table_2.9,Number of cases where disciplinary action taken against any officer in respect of administration of RTI Act
+2019-20,CIC Section 20(1) Penalties Imposed,1062000,INR,AR2019-20E.pdf,33,Section_3.3.1,Section_3.3.1,"Penalties imposed by CIC under Section 20(1); reported as Rs.10,62,000"
+2019-20,CIC Section 20(1) Penalties Realized,640500,INR,AR2019-20E.pdf,33,Section_3.3.1,Section_3.3.1,"Amount received against CIC penalties; reported as Rs.6,40,500; may include carry-over collections from prior-year impositions"
+2019-20,Fee (Application) Collected by PAs,5718102.2,INR,AR2019-20E.pdf,182,Annexure-1_GrandTotal,Annexure-1_GrandTotal,RTI application fee collected by all PAs; Annexure-1 Grand Total row; value has decimal (5718102.20)
+2019-20,Additional Charges Collected by PAs,3395856,INR,AR2019-20E.pdf,182,Annexure-1_GrandTotal,Annexure-1_GrandTotal,Additional charges for providing information (photocopying etc.) collected by all PAs
+2019-20,Section 20 Penalty Collected by PAs,194576,INR,AR2019-20E.pdf,182,Annexure-1_GrandTotal,Annexure-1_GrandTotal,Section 20 penalty collected by Public Authorities (distinct from CIC-imposed penalties); reported in Annexure-1 Grand Total
+2019-20,Total Amount Collected by PAs,9308534,INR,AR2019-20E.pdf,28;182,Figure_2.6;Annexure-1_GrandTotal,Figure_2.6;Annexure-1_GrandTotal,Fee + Addl.Charges + Penalty = 5718102.20 + 3395856 + 194576 = 9308534; verified against Figure 2.6 (p.28)
+2019-20,RTI Requests Rejected,58634,Requests,AR2019-20E.pdf,29,Table_2.9,Table_2.9,Overall rejection count for 2019-20; rejection rate = 4.27% over requests received (not total)
