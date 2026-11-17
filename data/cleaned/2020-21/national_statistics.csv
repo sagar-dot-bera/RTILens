@@ -1,0 +1,12 @@
+﻿financial_year,metric,value,unit,value_status,source_file,pdf_page,table_number,source_table,notes
+2020-21,registered_public_authorities,2275,count,reported,AR2020-21E.pdf,23,1,"Historical RTI requests, rejection and registered public authorities",2020-21 row
+2020-21,opening_balance,348410,count,reported,AR2020-21E.pdf,23,1,"Historical RTI requests, rejection and registered public authorities",2020-21 row; cross-check page 32
+2020-21,applications_received,1333802,count,reported,AR2020-21E.pdf,23,1,"Historical RTI requests, rejection and registered public authorities",2020-21 row; cross-check page 32
+2020-21,total_applications_available_for_disposal,1682212,count,reported,AR2020-21E.pdf,23,1,"Historical RTI requests, rejection and registered public authorities",Reported total; opening balance plus applications received
+2020-21,applications_rejected,51390,count,reported,AR2020-21E.pdf,23,1,"Historical RTI requests, rejection and registered public authorities",2020-21 row; cross-check pages 25 and 32
+2020-21,rejection_percentage,3.85,percent,reported,AR2020-21E.pdf,23,1,"Historical RTI requests, rejection and registered public authorities",Reported as rejected divided by applications received
+2020-21,applications_transferred,195403,count,reported,AR2020-21E.pdf,32,1,Summary of annual-return and RTI statistics,Transferred to other public authorities
+2020-21,applications_disposed,NA,count,not_reported,AR2020-21E.pdf,32,1,Summary of annual-return and RTI statistics,No distinct national RTI-application disposal value reported; appeal disposal is separate
+2020-21,closing_pending_applications,NA,count,not_reported,AR2020-21E.pdf,32,1,Summary of annual-return and RTI statistics,No closing pending RTI-application balance reported
+2020-21,appeals_received_aggregate,150036,count,reported,AR2020-21E.pdf,32,1,Summary of annual-return and RTI statistics,Aggregate appeal label; type not specified
+2020-21,appeals_disposed_aggregate,92982,count,reported,AR2020-21E.pdf,32,1,Summary of annual-return and RTI statistics,Aggregate appeal label; type not specified

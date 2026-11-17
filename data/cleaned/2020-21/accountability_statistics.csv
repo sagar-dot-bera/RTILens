@@ -1,0 +1,8 @@
+﻿financial_year,metric,value,unit,value_status,source_file,pdf_page,table_number,source_table,notes
+2020-21,section_20_1_penalties_imposed,NA,count,not_reported,AR2020-21E.pdf,32-223,1,Annual-return and RTI administration tables,No explicit Section 20(1) penalty-case count; do not infer from Penalty Collected row
+2020-21,total_section_20_penalty_amount,NA,INR,not_reported,AR2020-21E.pdf,32-223,1,Annual-return and RTI administration tables,Penalty Collected is reported separately but is not explicitly identified as Section 20
+2020-21,section_20_2_disciplinary_action_cases,NA,count,not_reported,AR2020-21E.pdf,32-223,1,Annual-return and RTI administration tables,No explicit Section 20(2) label
+2020-21,disciplinary_action_taken_cases,16,count,reported,AR2020-21E.pdf,32,1,Summary of annual-return and RTI statistics,Cases where disciplinary action was taken against an officer in administration of RTI Act; corroborated by page 223 grand total
+2020-21,penalty_collected_separate_field,609237,INR,reported,AR2020-21E.pdf,223,1,Public-authority/ministry annual-return and RTI administration tables,Separate Penalty Collected row; not labelled Section 20
+2020-21,combined_fee_additional_charges_penalty_collected,7296660,INR,reported,AR2020-21E.pdf,32,1,Summary of annual-return and RTI statistics,"Explicitly combines fee, additional charges and penalty; not a Section 20 amount"
+2020-21,disciplinary_action_reasons,NA,text,not_reported,AR2020-21E.pdf,32-223,1,Annual-return and RTI administration tables,Reasons and officer-level details not reported

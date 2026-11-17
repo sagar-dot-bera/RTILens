@@ -1,0 +1,9 @@
+financial_year,metric,value,source_file,pdf_page,table_number,source_table,notes
+2022-23,Total registered public authorities,2294,AR2022-23E.pdf,12,1,Data related to quarterly returns submitted by public authorities,2022-23 row.
+2022-23,Public authorities submitted all four quarterly returns,2220,AR2022-23E.pdf,12,1,Data related to quarterly returns submitted by public authorities,2022-23 row; used as annual reporting compliance proxy.
+2022-23,Public authorities did not submit all four quarterly returns,74,AR2022-23E.pdf,12,1,Data related to quarterly returns submitted by public authorities,2022-23 row.
+2022-23,Quarterly return compliance percentage,96.77,AR2022-23E.pdf,12,1,Data related to quarterly returns submitted by public authorities,Reported percentage; 2220/2294*100 is consistent after rounding.
+2022-23,CAPIOs appointed,67092,AR2022-23E.pdf,23,1,"Historical CAPIO, CPIO and FAA counts",2022-23 row.
+2022-23,CPIOs appointed,24591,AR2022-23E.pdf,23,1,"Historical CAPIO, CPIO and FAA counts",2022-23 row.
+2022-23,Appellate authorities appointed,10510,AR2022-23E.pdf,23,1,"Historical CAPIO, CPIO and FAA counts",2022-23 row; source label is FAAs.
+2022-23,Total CAPIOs + CPIOs + appellate authorities,102193,AR2022-23E.pdf,25,1,Summary of annual-return and RTI administration statistics,Reported total of rows 13+14+15.

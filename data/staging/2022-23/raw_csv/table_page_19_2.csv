@@ -1,0 +1,15 @@
+﻿"Sl.
+No.","Ministry/Department/Independent
+PAs","No. of RTI
+Requests
+Received","No. of RTI
+Requests
+Rejected",Percentage (%)
+,(a),(b),(c),(d)=(c)X100/(b)
+1,Ministry of Corporate Affairs,203161,268,0.13
+2,Ministry of Railways,189565,2668,1.41
+3,Ministry of Finance,185132,17821,9.63
+4,UT of Delhi,124586,2333,1.87
+5,Ministry of Communications,117758,1399,1.19
+6,Ministry of Education,104159,696,0.67
+7,Ministry of Defence,86427,3447,3.99

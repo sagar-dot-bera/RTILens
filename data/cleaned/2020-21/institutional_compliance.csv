@@ -1,0 +1,9 @@
+﻿financial_year,metric,value,unit,value_status,source_file,pdf_page,table_number,source_table,notes
+2020-21,total_registered_public_authorities,2275,count,reported,AR2020-21E.pdf,15,1,Compliance for submission of all four quarterly returns,2020-21 row; corroborated by page 32
+2020-21,public_authorities_submitted_annual_returns,2182,count,reported,AR2020-21E.pdf,15,1,Compliance for submission of all four quarterly returns,All four quarterly returns; corroborated by page 32
+2020-21,public_authorities_not_submitted_annual_returns,93,count,reported,AR2020-21E.pdf,15,1,Compliance for submission of all four quarterly returns,All four quarterly returns; corroborated by page 32
+2020-21,annual_return_compliance_percentage,95.91,percent,reported,AR2020-21E.pdf,15,1,Compliance for submission of all four quarterly returns,Reported submitted divided by registered
+2020-21,capios_appointed,66278,count,reported,AR2020-21E.pdf,32,1,"Summary of annual-return, officer and authority statistics",CAPIOs appointed by public authorities
+2020-21,cpios_appointed,23012,count,reported,AR2020-21E.pdf,32,1,"Summary of annual-return, officer and authority statistics",CPIOs appointed by public authorities
+2020-21,appellate_authorities_appointed,9660,count,reported,AR2020-21E.pdf,32,1,"Summary of annual-return, officer and authority statistics",AAs appointed by public authorities
+2020-21,total_capios_cpios_and_appellate_authorities,98950,count,reported,AR2020-21E.pdf,32,1,"Summary of annual-return, officer and authority statistics",Reported total of CAPIOs + CPIOs + AAs

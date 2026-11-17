@@ -1,0 +1,21 @@
+﻿"Sl.
+No.",Category of PA,"Number
+of RTI
+Requests
+Received","Number
+of RTI
+Requests
+Rejected","Percentage of
+RTI Requests
+Rejected
+(%)"
+(a),(b),(c),(d),(e)=(d) X 100/(c)
+1,Independent Ministry/Department,222867,6237,2.80
+2,Department under Ministry,275685,3251,1.18
+3,Attached Office,407309,3087,0.76
+4,Subordinate Office,351968,24598,6.99
+5,Corporation,33850,629,1.9
+6,Govt. Autonomous Body,241077,11384,4.72
+7,Govt. Company under Companies Act,25977,1517,5.84
+8,Others,80051,1959,2.45
+Total,,1638784,52662,3.21

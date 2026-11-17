@@ -1,0 +1,6 @@
+financial_year,appeal_type,status,value,source_file,pdf_page,table_number,source_table,notes
+2022-23,First appeals,received,169051,AR2022-23E.pdf,25,1,Summary of annual-return and RTI administration statistics,National first-appeal figure.
+2022-23,First appeals,disposed,109310,AR2022-23E.pdf,25,1,Summary of annual-return and RTI administration statistics,National first-appeal figure.
+2022-23,Second appeals/complaints,received,19014,AR2022-23E.pdf,27,1,Second appeals/complaints at the Commission,Source combines second appeals and complaints; no split reported.
+2022-23,Second appeals/complaints,disposed,29208,AR2022-23E.pdf,27,1,Second appeals/complaints at the Commission,Source combines second appeals and complaints; no split reported.
+2022-23,Second appeals/complaints,pending,19233,AR2022-23E.pdf,27,1,Second appeals/complaints at the Commission,Pending as of 1 April 2023; source combines second appeals and complaints.

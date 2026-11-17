@@ -1,0 +1,6 @@
+﻿financial_year,appeal_or_complaint_category,received,disposed,pending,value_status,source_file,pdf_page,table_number,source_table,notes
+2020-21,First appeals,NA,NA,NA,not_reported,AR2020-21E.pdf,29-30,1,Ministry/PA-wise first and second appeals/complaints,Only ministry/PA first-appeal receipts are reported; no national received/disposed/pending series
+2020-21,Second appeals,NA,NA,NA,not_reported,AR2020-21E.pdf,35,1,Second appeals/complaints at the Commission,Source combines second appeals and complaints
+2020-21,Complaints,NA,NA,NA,not_reported,AR2020-21E.pdf,35,1,Second appeals/complaints at the Commission,Source combines complaints with second appeals
+2020-21,Second appeals or complaints (combined),19183,17017,38116,reported,AR2020-21E.pdf,35,1,Second appeals/complaints at the Commission,Registered/disposed during reporting year; pending as on 1 April of reporting year
+2020-21,Appeals (aggregate),150036,92982,NA,reported,AR2020-21E.pdf,32,1,Summary of annual-return and RTI statistics,Appeal type not specified; do not merge with page 35 combined series
